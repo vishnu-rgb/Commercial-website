@@ -1,0 +1,17 @@
+button{
+    border-radius: 0%;
+    height: 10mm;
+    background-color: aquamarine  ;
+    
+    position: left;
+    margin: auto;
+    font-weight: 200;
+    block-size: 10mm;
+
+
+}
+h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20mm;
+   position: relative;
+
+}
